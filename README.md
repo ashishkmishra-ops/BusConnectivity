@@ -125,10 +125,3 @@ Operator Success Screen
 '''SUCCESS! Bus B-99 updated.
 New estimated arrival time: 16:15 at College Gate/Main Stop'''
 <img width="629" height="428" alt="image" src="https://github.com/user-attachments/assets/762b6718-8911-4147-b186-25b3c0da8ba4" />
-
-
-            print("Invalid choice. Please enter 1, 2, or 3.")
-
-if __name__ == "__main__":
-    main()
-
