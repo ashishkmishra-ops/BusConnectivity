@@ -33,7 +33,7 @@ Includes a visual indicator (-> UPCOMING) for buses whose arrival time is in the
 
 Shows the exact date and time the schedule was last updated.
 
-**Technologies & Tools Used**
+** **Technologies & Tools Used** **
 
 Component
 
@@ -59,7 +59,7 @@ In-Memory Dictionary
 
 Dummy data storage for non-persistent testing (no external files/databases required for this version).
 
-**Steps to Install & Run the Project**
+** **Steps to Install & Run the Project** **
 
 Since this is a single, self-contained Python script, setup is minimal.
 
